@@ -11,6 +11,7 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Generate Neon Snake
         uses: Platane/snk@v3
@@ -19,6 +20,42 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23a855f7
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300e5ff
+
+      - name: Add Neon Glow
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          import tempfile
+          import os
+
+          for file in Path("dist").glob("*.svg"):
+              svg = file.read_text(encoding="utf-8")
+
+              glow_css = """
+              .s {
+                filter: drop-shadow(0 0 3px #a855f7)
+                        drop-shadow(0 0 7px #00e5ff);
+              }
+              """
+
+              if "<style>" in svg and "drop-shadow(0 0 3px" not in svg:
+                  svg = svg.replace("</style>", glow_css + "</style>", 1)
+
+              fd, temp_name = tempfile.mkstemp(
+                  prefix="snake-", suffix=".svg", dir="dist"
+              )
+              try:
+                  with os.fdopen(fd, "w", encoding="utf-8") as temp:
+                      temp.write(svg)
+                  os.replace(temp_name, str(file))
+              finally:
+                  if os.path.exists(temp_name):
+                      os.unlink(temp_name)
+
+              print(f"Neon effect processed: {file}")
+          PY
 
       - name: Publish Snake
         uses: peaceiris/actions-gh-pages@v4
