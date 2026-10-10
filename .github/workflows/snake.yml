@@ -1,4 +1,3 @@
-
 name: Generate Futuristic Snake Animation
 
 on:
@@ -22,11 +21,14 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Add neon glow effect
-        shell: python
+        shell: bash
         run: |
+          python3 - <<'PY'
           from pathlib import Path
+          import os
 
           for file in Path("dist").glob("*.svg"):
+              os.chmod(file, 0o644)
               svg = file.read_text()
 
               svg = svg.replace(
@@ -34,46 +36,31 @@ jobs:
                   "--cs:#a855f7"
               )
 
-              glow = '''
+              glow = """
               .s { filter: url(#neonGlow); }
-              '''
-              svg = svg.replace("</style>", glow + "</style>")
-
-              defs = '''
+              """
+              defs = """
               <defs>
-                <filter id="neonGlow" x="-100%" y="-100%"
-                        width="300%" height="300%">
-                  <feGaussianBlur stdDeviation="3"
-                                  result="purpleGlow"/>
-                  <feFlood flood-color="#a855f7"
-                           result="purpleColor"/>
-                  <feComposite in="purpleColor"
-                               in2="purpleGlow"
-                               operator="in"
-                               result="purple"/>
-                  <feGaussianBlur in="SourceGraphic"
-                                  stdDeviation="1.5"
-                                  result="cyanGlow"/>
-                  <feFlood flood-color="#00e5ff"
-                           result="cyanColor"/>
-                  <feComposite in="cyanColor"
-                               in2="cyanGlow"
-                               operator="in"
-                               result="cyan"/>
+                <filter id="neonGlow" x="-100%" y="-100%" width="300%" height="300%">
+                  <feGaussianBlur stdDeviation="3" result="blur"/>
+                  <feFlood flood-color="#a855f7" result="color"/>
+                  <feComposite in="color" in2="blur" operator="in" result="glow"/>
                   <feMerge>
-                    <feMergeNode in="purple"/>
-                    <feMergeNode in="cyan"/>
+                    <feMergeNode in="glow"/>
                     <feMergeNode in="SourceGraphic"/>
                   </feMerge>
                 </filter>
               </defs>
-              '''
+              """
 
-              svg = svg.replace("<style>", defs + "<style>", 1)
-              file.chmod(0o644)
+              if "</style>" in svg and 'id="neonGlow"' not in svg:
+                  svg = svg.replace("</style>", glow + "</style>", 1)
+                  svg = svg.replace("<style>", defs + "<style>", 1)
+
               file.write_text(svg)
-              print(f"Neon glow added to {file}")
-          
+              print(f"Updated {file}")
+          PY
+
       - name: Publish animation
         uses: peaceiris/actions-gh-pages@v4
         with:
