@@ -140,7 +140,7 @@ A project focused on analyzing customer behaviour and exploring patterns in cust
   <a href="https://github.com/vaishnavireddy0">
     <img src="https://img.shields.io/badge/GitHub-VAISHNAVI.EXE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/vaishnavi-reddy-066155419">
+  <a href="https://www.linkedin.com/in/vaishnavi-karra-066155419">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:vaishureddy1124@gmail.com">
