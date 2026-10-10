@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./assets/banner.png" alt="VAISHNAVI.EXE Futuristic Developer Banner" width="100%" />
+  <img src="./assets/banner.png" alt="VAISHNAVI.EXE futuristic banner" width="100%" />
 </div>
 
 <br/>
@@ -9,30 +9,28 @@
 
 # VAISHNAVI.EXE
 
-### `BUILDING IDEAS INTO REALITY`
+### COMPUTER SCIENCE & BUSINESS SYSTEMS
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=650&lines=Python+Developer+in+Progress;Computer+Science+Student;Building+Projects+That+Solve+Problems;Learn+%7C+Build+%7C+Improve" alt="Animated developer introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=CSBS+Student;Python+Project+Builder;Learning+Through+Building;Turning+Ideas+Into+Code" alt="Animated introduction" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=080B12" alt="Online status" />
-<img src="https://img.shields.io/badge/FOCUS-PYTHON-8A2BE2?style=for-the-badge&labelColor=080B12" alt="Python focus" />
-<img src="https://img.shields.io/badge/MODE-DEVELOPER-00F5FF?style=for-the-badge&labelColor=080B12" alt="Developer mode" />
+<img src="https://img.shields.io/badge/DEGREE-B.TECH%20CSBS-00F5FF?style=for-the-badge&labelColor=080B12" alt="BTech CSBS" />
+<img src="https://img.shields.io/badge/GRADUATION-2028-8A2BE2?style=for-the-badge&labelColor=080B12" alt="Expected graduation 2028" />
 
 </div>
 
 ---
 
-## ◈ SYSTEM PROFILE
+## ◈ ABOUT ME
 
-```text
-NAME       : Vaishnavi Reddy
-ROLE       : Computer Science Student
-PRIMARY    : Python
-ALSO KNOWS : Java | C++ | SQL | Web Technologies
-MINDSET    : Learn • Build • Improve
-MISSION    : Turn ideas into practical solutions
-```
+- 🎓 B.Tech student in **Computer Science and Business Systems (CSBS)**.
+- 🏫 Studying at **B. V. Raju Institute of Technology (BVRIT)**.
+- 🐍 Interested in Python programming and practical project development.
+- 💻 Exploring programming, data analysis, and software development.
+- 🚀 Focused on learning new skills by building projects.
+
+---
 
 ## ◈ TECH STACK
 
@@ -46,23 +44,23 @@ MISSION    : Turn ideas into practical solutions
 
 ### ⚡ Dynamic Equity Engine
 
-A Python-based team contribution analysis tool designed to evaluate individual participation and identify inactive or low-contributing team members using project activity data.
+A Python-based team contribution analysis project focused on understanding individual participation and identifying inactive or low-contributing team members.
 
-**Project goals**
-- Analyze individual team contributions.
-- Understand participation across team members.
-- Identify inactive or low-contributing members.
+**Project focus**
+- Analyze individual contributions.
+- Understand participation across a team.
+- Identify members with low or no recorded contribution.
 
 <a href="https://github.com/vaishnavireddy0/dynamic-equity-engine">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080B12" alt="Explore Dynamic Equity Engine" />
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080B12" alt="View Dynamic Equity Engine" />
 </a>
 
 ### 📊 Customer Behaviour Analysis
 
-A data analysis project focused on exploring customer behaviour and understanding patterns in customer-related data.
+A project focused on exploring customer-related data and understanding customer behaviour patterns.
 
 <a href="https://github.com/vaishnavireddy0/customer-behaviour-analysis">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=080B12" alt="Explore Customer Behaviour Analysis" />
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=080B12" alt="View Customer Behaviour Analysis" />
 </a>
 
 ---
@@ -70,39 +68,35 @@ A data analysis project focused on exploring customer behaviour and understandin
 ## ◈ GITHUB STATISTICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavireddy0&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=8A2BE2&text_color=FFFFFF&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavireddy0&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" height="165" alt="Most used programming languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vaishnavireddy0&hide_border=true&background=0D1117&ring=00F5FF&fire=8A2BE2&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" width="90%" alt="GitHub contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavireddy0&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=8A2BE2&text_color=FFFFFF" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavireddy0&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" height="165" alt="Most used languages" />
 </div>
 
 ---
 
-## ◈ DEVELOPER PROTOCOL
+## ◈ MY APPROACH
 
-| MODULE | OBJECTIVE |
+| MODULE | FOCUS |
 |---|---|
-| `01 / LEARN` | Improve programming and technical knowledge |
-| `02 / BUILD` | Create useful projects |
-| `03 / ANALYZE` | Solve problems using data and logic |
-| `04 / EVOLVE` | Keep learning and improving |
+| `01 / LEARN` | Build a strong technical foundation |
+| `02 / BUILD` | Turn ideas into practical projects |
+| `03 / ANALYZE` | Explore data and solve problems |
+| `04 / IMPROVE` | Learn from feedback and keep growing |
 
 ---
 
 <div align="center">
 
-## ◈ CONNECT TO THE DEVELOPER
+## ◈ CONNECT
 
 <a href="https://github.com/vaishnavireddy0">
-  <img src="https://img.shields.io/badge/GITHUB-VAISHNAVI.EXE-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=080B12" alt="Visit GitHub profile" />
+  <img src="https://img.shields.io/badge/GITHUB-VAISHNAVI.EXE-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=080B12" alt="GitHub profile" />
 </a>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=120&section=footer" width="100%" alt="Cyan and violet footer" />
 
-<sub>BUILD • LEARN • REPEAT</sub>
+<sub>LEARN • BUILD • IMPROVE</sub>
 
 </div>
