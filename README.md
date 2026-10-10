@@ -1,102 +1,138 @@
 
 <div align="center">
-  <img src="./assets/banner.png" alt="VAISHNAVI.EXE futuristic banner" width="100%" />
+  <img src="./assets/banner.png" alt="VAISHNAVI.EXE Banner" width="100%" />
 </div>
 
 <br/>
 
-<div align="center">
+<h1 align="center">⚡ VAISHNAVI.EXE ⚡</h1>
 
-# VAISHNAVI.EXE
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Java+%7C+C+%7C+C%2B%2B;Web+Development;HTML+%7C+CSS+%7C+JavaScript;SQL+%7C+Oracle+%7C+MySQL;Always+Learning.+Always+Building." alt="Animated Typing Intro" />
+</p>
 
-### COMPUTER SCIENCE & BUSINESS SYSTEMS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,mysql,oracle,git,github,vscode&perline=6" alt="Technology Skills" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=CSBS+Student;Python+Project+Builder;Learning+Through+Building;Turning+Ideas+Into+Code" alt="Animated introduction" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/DEGREE-B.TECH%20CSBS-00F5FF?style=for-the-badge&labelColor=080B12" alt="BTech CSBS" />
-<img src="https://img.shields.io/badge/GRADUATION-2028-8A2BE2?style=for-the-badge&labelColor=080B12" alt="Expected graduation 2028" />
-
-</div>
-
----
-
-## ◈ ABOUT ME
-
-- 🎓 B.Tech student in **Computer Science and Business Systems (CSBS)**.
-- 🏫 Studying at **B. V. Raju Institute of Technology (BVRIT)**.
-- 🐍 Interested in Python programming and practical project development.
-- 💻 Exploring programming, data analysis, and software development.
-- 🚀 Focused on learning new skills by building projects.
+<p align="center">
+  <b>Computer Science and Business Systems</b><br/>
+  B. V. Raju Institute of Technology (BVRIT)<br/>
+  🎓 Expected Graduation: 2028
+</p>
 
 ---
 
-## ◈ TECH STACK
+## 👾 About Me
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,sql,fastapi,git,github,vscode&theme=dark" alt="Programming languages and tools" />
-</div>
-
----
-
-## ◈ FEATURED PROJECTS
-
-### ⚡ Dynamic Equity Engine
-
-A Python-based team contribution analysis project focused on understanding individual participation and identifying inactive or low-contributing team members.
-
-**Project focus**
-- Analyze individual contributions.
-- Understand participation across a team.
-- Identify members with low or no recorded contribution.
-
-<a href="https://github.com/vaishnavireddy0/dynamic-equity-engine">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080B12" alt="View Dynamic Equity Engine" />
-</a>
-
-### 📊 Customer Behaviour Analysis
-
-A project focused on exploring customer-related data and understanding customer behaviour patterns.
-
-<a href="https://github.com/vaishnavireddy0/customer-behaviour-analysis">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=080B12" alt="View Customer Behaviour Analysis" />
-</a>
+- 🎓 B.Tech student in Computer Science and Business Systems.
+- 💻 Interested in programming, software development, and web technologies.
+- 🧠 Learning by building projects and solving problems.
+- 🚀 Focused on improving my technical and problem-solving skills.
+- ⚡ Exploring new technologies and turning ideas into projects.
 
 ---
 
-## ◈ GITHUB STATISTICS
+## ⚡ Tech Arsenal
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavireddy0&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=8A2BE2&text_color=FFFFFF" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavireddy0&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" height="165" alt="Most used languages" />
-</div>
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" alt="Python, Java, C and C++" />
+</p>
+
+`Python` · `Java` · `C` · `C++`
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Web Development Technologies" />
+</p>
+
+`HTML` · `CSS` · `JavaScript` · `React` · `Bootstrap` · `Tailwind CSS`
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database Technologies" />
+</p>
+
+`SQL` · `Oracle` · `MySQL` · `PostgreSQL`
+
+### 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,fastapi" alt="Development Tools" />
+</p>
+
+`Git` · `GitHub` · `VS Code` · `FastAPI`
+
+### 🧠 Currently Exploring
+
+`Data Structures & Algorithms` · `REST APIs` · `Backend Development`
 
 ---
 
-## ◈ MY APPROACH
+## 🚀 Featured Projects
 
-| MODULE | FOCUS |
+### 🔹 Dynamic Equity Engine
+
+A Python-based project designed to analyze team member contributions and identify inactive or low-contributing members.
+
+**Tech:** Python
+
+### 🔹 Customer Behaviour Analysis
+
+A project focused on analyzing customer behaviour and exploring patterns in customer-related data.
+
+**Tech:** Data Analysis
+
+<p align="center">
+  <a href="https://github.com/vaishnavireddy0/dynamic-equity-engine">
+    <img src="https://img.shields.io/badge/Explore-Dynamic_Equity_Engine-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Dynamic Equity Engine Repository" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vaishnavireddy0/customer-behaviour-analysis">
+    <img src="https://img.shields.io/badge/Explore-Customer_Behaviour_Analysis-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Customer Behaviour Analysis Repository" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaishnavireddy0&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=8A2BE2" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavireddy0&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" alt="Most Used Languages" />
+</p>
+
+---
+
+## 🌌 My Developer Mindset
+
+<p align="center">
+  <i>"Learn. Build. Break. Debug. Repeat."</i>
+</p>
+
+| ⚡ Principle | 🚀 Approach |
 |---|---|
-| `01 / LEARN` | Build a strong technical foundation |
-| `02 / BUILD` | Turn ideas into practical projects |
-| `03 / ANALYZE` | Explore data and solve problems |
-| `04 / IMPROVE` | Learn from feedback and keep growing |
+| Learning | Keep exploring new concepts |
+| Building | Turn ideas into practical projects |
+| Problem Solving | Understand the problem before coding |
+| Growth | Improve through practice and feedback |
 
 ---
 
-<div align="center">
+## 🔗 Connect With Me
 
-## ◈ CONNECT
+<p align="center">
+  <a href="https://github.com/vaishnavireddy0">
+    <img src="https://img.shields.io/badge/GitHub-VAISHNAVI.EXE-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+</p>
 
-<a href="https://github.com/vaishnavireddy0">
-  <img src="https://img.shields.io/badge/GITHUB-VAISHNAVI.EXE-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=080B12" alt="GitHub profile" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=120&section=footer" width="100%" alt="Cyan and violet footer" />
-
-<sub>LEARN • BUILD • IMPROVE</sub>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:301060,100:8A2BE2&height=120&section=footer" alt="Cyberpunk Footer" />
+</p>
