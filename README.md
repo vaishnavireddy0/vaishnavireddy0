@@ -21,9 +21,15 @@
   🎓 Expected Graduation: 2028
 </p>
 
+<p align="center">
+  <a href="https://github.com/vaishnavireddy0">
+    <img src="https://img.shields.io/badge/GitHub-Profile-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Profile" />
+  </a>
+</p>
+
 ---
 
-## 👾 About Me
+## 👾 ABOUT ME
 
 - 🎓 B.Tech student in Computer Science and Business Systems.
 - 💻 Interested in programming, software development, and web technologies.
@@ -33,12 +39,12 @@
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ TECH ARSENAL
 
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" alt="Python, Java, C and C++" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" alt="Programming Languages" />
 </p>
 
 `Python` · `Java` · `C` · `C++`
@@ -46,7 +52,7 @@
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Web Development Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Web Development" />
 </p>
 
 `HTML` · `CSS` · `JavaScript` · `React` · `Bootstrap` · `Tailwind CSS`
@@ -54,7 +60,7 @@
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database Technologies" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" />
 </p>
 
 `SQL` · `Oracle` · `MySQL` · `PostgreSQL`
@@ -62,7 +68,7 @@
 ### 🛠️ Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,fastapi" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,fastapi" alt="Tools and Technologies" />
 </p>
 
 `Git` · `GitHub` · `VS Code` · `FastAPI`
@@ -73,35 +79,27 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 FEATURED PROJECTS
 
 ### 🔹 Dynamic Equity Engine
 
 A Python-based project designed to analyze team member contributions and identify inactive or low-contributing members.
 
-**Tech:** Python
+**Technology:** Python
+
+[View Repository →](https://github.com/vaishnavireddy0/dynamic-equity-engine)
 
 ### 🔹 Customer Behaviour Analysis
 
 A project focused on analyzing customer behaviour and exploring patterns in customer-related data.
 
-**Tech:** Data Analysis
+**Area:** Data Analysis
 
-<p align="center">
-  <a href="https://github.com/vaishnavireddy0/dynamic-equity-engine">
-    <img src="https://img.shields.io/badge/Explore-Dynamic_Equity_Engine-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Dynamic Equity Engine Repository" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/vaishnavireddy0/customer-behaviour-analysis">
-    <img src="https://img.shields.io/badge/Explore-Customer_Behaviour_Analysis-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Customer Behaviour Analysis Repository" />
-  </a>
-</p>
+[View Repository →](https://github.com/vaishnavireddy0/customer-behaviour-analysis)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GITHUB STATISTICS
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaishnavireddy0&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=8A2BE2" alt="GitHub Statistics" />
@@ -110,7 +108,15 @@ A project focused on analyzing customer behaviour and exploring patterns in cust
 
 ---
 
-## 🌌 My Developer Mindset
+## 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vaishnavireddy00/vaishnavireddy00/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+</p>
+
+---
+
+## 🌌 MY DEVELOPER MINDSET
 
 <p align="center">
   <i>"Learn. Build. Break. Debug. Repeat."</i>
@@ -125,12 +131,16 @@ A project focused on analyzing customer behaviour and exploring patterns in cust
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 CONNECT WITH ME
 
 <p align="center">
   <a href="https://github.com/vaishnavireddy0">
-    <img src="https://img.shields.io/badge/GitHub-VAISHNAVI.EXE-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-VAISHNAVI.EXE-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! ⚡</i>
 </p>
 
 <p align="center">
