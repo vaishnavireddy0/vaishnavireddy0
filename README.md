@@ -1,100 +1,95 @@
 
 <div align="center">
-
-<img src="./assets/banner.png" width="100%" alt="VAISHNAVI.EXE futuristic banner" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=2500&pause=700&color=67F5FF&center=true&vCenter=true&width=700&height=55&lines=INITIALIZING+VAISHNAVI.EXE...;COMPUTER+SCIENCE+%26+BUSINESS+SYSTEMS;BUILDING+IDEAS+INTO+REALITY;CODE+%7C+LEARN+%7C+INNOVATE" alt="Animated typing introduction" />
+  <img src="./assets/banner.png" alt="VAISHNAVI.EXE Futuristic Developer Banner" width="100%" />
+</div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=080D18" />
-<img src="https://img.shields.io/badge/MODE-DEVELOPER-8A2BE2?style=for-the-badge&labelColor=080D18" />
+<div align="center">
+
+# `VAISHNAVI.EXE`
+
+### BUILDING IDEAS INTO REALITY
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Developer+in+Progress;Python+%7C+Java+%7C+C%2B%2B;Turning+Ideas+Into+Code" alt="Typing animation" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=080B12" alt="Status online" />
+<img src="https://img.shields.io/badge/MODE-DEVELOPER-8A2BE2?style=for-the-badge&labelColor=080B12" alt="Developer mode" />
 
 </div>
 
 ---
 
-<h2 align="center">◈ SYSTEM PROFILE ◈</h2>
+## ◈ SYSTEM PROFILE
 
 ```text
-NAME       : VAISHNAVI REDDY
-IDENTITY   : COMPUTER SCIENCE & BUSINESS SYSTEMS
-MISSION    : BUILD • LEARN • INNOVATE
-INTERESTS  : SOFTWARE DEVELOPMENT • DATA ANALYTICS • AI
-STATUS     : ALWAYS LEARNING
+NAME       : Vaishnavi Reddy
+ROLE       : Computer Science Student
+SPECIALTY  : Software Development & Problem Solving
+LANGUAGES  : Python | Java | C++
+CURRENT OS : Learning • Building • Improving
+MISSION    : Transform ideas into useful technology
 ```
 
-<h2 align="center">◈ TECH ARSENAL ◈</h2>
+## ◈ TECH STACK
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,fastapi,mysql,postgres,git,github,vscode,docker&theme=dark" alt="Technology stack" />
-
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,sql,fastapi,git,github,vscode&theme=dark" alt="Technology stack icons" />
 </div>
 
-<h2 align="center">◈ DEVELOPER PROTOCOL ◈</h2>
+## ◈ DEVELOPER PROTOCOL
+
+| MODULE | DETAILS |
+|---|---|
+| `01 / BUILD` | Create projects and practical applications |
+| `02 / LEARN` | Improve programming and technical skills |
+| `03 / SOLVE` | Practice logic and problem-solving |
+| `04 / EXPLORE` | Discover new tools and technologies |
+
+## ◈ GITHUB STATISTICS
 
 <div align="center">
-
-| SYSTEM | CURRENT FOCUS |
-|:---:|:---|
-| `01` | Building useful software projects |
-| `02` | Strengthening problem-solving skills |
-| `03` | Exploring data analytics and AI |
-| `04` | Learning through hands-on development |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavireddy0&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=8A2BE2&text_color=FFFFFF&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavireddy0&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" height="165" alt="Most used languages" />
 </div>
 
-<h2 align="center">◈ GITHUB STATISTICS ◈</h2>
-
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishnavireddy0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080D18&title_color=67F5FF&icon_color=8A2BE2&text_color=FFFFFF" alt="GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavireddy0&layout=compact&theme=tokyonight&hide_border=true&bg_color=080D18&title_color=67F5FF&text_color=FFFFFF" alt="Most used programming languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=vaishnavireddy0&theme=tokyonight&hide_border=true&background=080D18&ring=67F5FF&fire=8A2BE2&currStreakLabel=67F5FF" alt="GitHub contribution streak" width="90%" />
-
+  <img src="https://streak-stats.demolab.com?user=vaishnavireddy0&hide_border=true&background=0D1117&ring=00F5FF&fire=8A2BE2&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" width="90%" alt="GitHub contribution streak" />
 </div>
 
-<h2 align="center">◈ CONTRIBUTION MATRIX ◈</h2>
+## ◈ CONTRIBUTION MATRIX
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavireddy0&bg_color=080D18&color=67F5FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavireddy0&bg_color=0d1117&color=00f5ff&line=8a2be2&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
 </div>
 
-<h2 align="center">◈ FEATURED PROJECTS ◈</h2>
+## ◈ FEATURED PROJECTS
 
 <div align="center">
-
-<a href="https://github.com/vaishnavireddy0/customer-behaviour-analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishnavireddy0&repo=customer-behaviour-analysis&theme=tokyonight&hide_border=true&bg_color=080D18&title_color=67F5FF" alt="Customer Behaviour Analysis project" />
-</a>
-
-<a href="https://github.com/vaishnavireddy0/dynamic-equity-engine">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishnavireddy0&repo=dynamic-equity-engine&theme=tokyonight&hide_border=true&bg_color=080D18&title_color=67F5FF" alt="Dynamic Equity Engine project" />
-</a>
-
+  <a href="https://github.com/vaishnavireddy0/customer-behaviour-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishnavireddy0&repo=customer-behaviour-analysis&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Customer Behaviour Analysis project" />
+  </a>
+  <a href="https://github.com/vaishnavireddy0/dynamic-equity-engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishnavireddy0&repo=dynamic-equity-engine&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Dynamic Equity Engine project" />
+  </a>
 </div>
 
-<h2 align="center">◈ CONNECT ◈</h2>
+---
 
 <div align="center">
+
+### ◈ CONNECT TO THE DEVELOPER ◈
 
 <a href="https://github.com/vaishnavireddy0">
-<img src="https://img.shields.io/badge/GitHub-VAISHNAVI.EXE-181717?style=for-the-badge&logo=github&logoColor=67F5FF" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GitHub-VAISHNAVI.EXE-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=080B12" alt="Visit my GitHub profile" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D18,50:173B68,100:8A2BE2&height=120&section=footer" width="100%" alt="Futuristic footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=100&section=footer" width="100%" alt="Cyan and violet footer" />
 
-<sub>⚡ VAISHNAVI.EXE — BUILD • LEARN • CREATE • REPEAT ⚡</sub>
+<sub>BUILD • LEARN • REPEAT</sub>
 
 </div>
