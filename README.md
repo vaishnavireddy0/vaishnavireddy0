@@ -59,11 +59,7 @@ MISSION    : Transform ideas into useful technology
   <img src="https://streak-stats.demolab.com?user=vaishnavireddy0&hide_border=true&background=0D1117&ring=00F5FF&fire=8A2BE2&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" width="90%" alt="GitHub contribution streak" />
 </div>
 
-## ◈ CONTRIBUTION MATRIX
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavireddy0&bg_color=0d1117&color=00f5ff&line=8a2be2&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
-</div>
 
 ## ◈ FEATURED PROJECTS
 
