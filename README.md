@@ -133,17 +133,25 @@ A project focused on analyzing customer behaviour and exploring patterns in cust
 
 ---
 
+
 ## 🔗 CONNECT WITH ME
 
 <p align="center">
   <a href="https://github.com/vaishnavireddy0">
-    <img src="https://img.shields.io/badge/GitHub-VAISHNAVI.EXE-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-VAISHNAVI.EXE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/vaishnavi-reddy-066155419">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vaishureddy1124@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
   <i>Thanks for visiting my profile! ⚡</i>
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:301060,100:8A2BE2&height=120&section=footer" alt="Cyberpunk Footer" />
