@@ -70,6 +70,7 @@ jobs:
               '''
 
               svg = svg.replace("<style>", defs + "<style>", 1)
+              file.chmod(0o644)
               file.write_text(svg)
               print(f"Neon glow added to {file}")
           
