@@ -1,5 +1,5 @@
 
-name: Generate Snake Animation
+name: Generate Futuristic Snake Animation
 
 on:
   schedule:
@@ -18,9 +18,61 @@ jobs:
         with:
           github_user_name: vaishnavireddy0
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?palette=github-dark
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Add neon glow effect
+        shell: python
+        run: |
+          from pathlib import Path
+
+          for file in Path("dist").glob("*.svg"):
+              svg = file.read_text()
+
+              svg = svg.replace(
+                  "--cs:purple",
+                  "--cs:#a855f7"
+              )
+
+              glow = '''
+              .s { filter: url(#neonGlow); }
+              '''
+              svg = svg.replace("</style>", glow + "</style>")
+
+              defs = '''
+              <defs>
+                <filter id="neonGlow" x="-100%" y="-100%"
+                        width="300%" height="300%">
+                  <feGaussianBlur stdDeviation="3"
+                                  result="purpleGlow"/>
+                  <feFlood flood-color="#a855f7"
+                           result="purpleColor"/>
+                  <feComposite in="purpleColor"
+                               in2="purpleGlow"
+                               operator="in"
+                               result="purple"/>
+                  <feGaussianBlur in="SourceGraphic"
+                                  stdDeviation="1.5"
+                                  result="cyanGlow"/>
+                  <feFlood flood-color="#00e5ff"
+                           result="cyanColor"/>
+                  <feComposite in="cyanColor"
+                               in2="cyanGlow"
+                               operator="in"
+                               result="cyan"/>
+                  <feMerge>
+                    <feMergeNode in="purple"/>
+                    <feMergeNode in="cyan"/>
+                    <feMergeNode in="SourceGraphic"/>
+                  </feMerge>
+                </filter>
+              </defs>
+              '''
+
+              svg = svg.replace("<style>", defs + "<style>", 1)
+              file.write_text(svg)
+              print(f"Neon glow added to {file}")
+          
       - name: Publish animation
         uses: peaceiris/actions-gh-pages@v4
         with:
