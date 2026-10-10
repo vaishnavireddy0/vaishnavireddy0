@@ -111,7 +111,9 @@ A project focused on analyzing customer behaviour and exploring patterns in cust
 ## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vaishnavireddy00/vaishnavireddy00/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+  
+<img src="https://raw.githubusercontent.com/vaishnavireddy0/vaishnavireddy00/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+
 </p>
 
 ---
