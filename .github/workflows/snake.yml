@@ -12,56 +12,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate contribution snake
+      - name: Generate Neon Snake
         uses: Platane/snk@v3
         with:
           github_user_name: vaishnavireddy0
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23a855f7
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300e5ff
 
-      - name: Add neon glow effect
-        shell: bash
-        run: |
-          python3 - <<'PY'
-          from pathlib import Path
-          import os
-
-          for file in Path("dist").glob("*.svg"):
-              os.chmod(file, 0o644)
-              svg = file.read_text()
-
-              svg = svg.replace(
-                  "--cs:purple",
-                  "--cs:#a855f7"
-              )
-
-              glow = """
-              .s { filter: url(#neonGlow); }
-              """
-              defs = """
-              <defs>
-                <filter id="neonGlow" x="-100%" y="-100%" width="300%" height="300%">
-                  <feGaussianBlur stdDeviation="3" result="blur"/>
-                  <feFlood flood-color="#a855f7" result="color"/>
-                  <feComposite in="color" in2="blur" operator="in" result="glow"/>
-                  <feMerge>
-                    <feMergeNode in="glow"/>
-                    <feMergeNode in="SourceGraphic"/>
-                  </feMerge>
-                </filter>
-              </defs>
-              """
-
-              if "</style>" in svg and 'id="neonGlow"' not in svg:
-                  svg = svg.replace("</style>", glow + "</style>", 1)
-                  svg = svg.replace("<style>", defs + "<style>", 1)
-
-              file.write_text(svg)
-              print(f"Updated {file}")
-          PY
-
-      - name: Publish animation
+      - name: Publish Snake
         uses: peaceiris/actions-gh-pages@v4
         with:
           publish_branch: output
