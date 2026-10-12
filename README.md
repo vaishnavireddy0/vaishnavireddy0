@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
   <img src="./assets/banner.png" alt="VAISHNAVI.EXE Banner" width="100%" />
 </div>
 
@@ -22,6 +21,9 @@
 </p>
 
 <p align="center">
+  <a href="https://vaishnavireddy0.github.io/vaishnavi-exe-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit My Portfolio" />
+  </a>
   <a href="https://github.com/vaishnavireddy0">
     <img src="https://img.shields.io/badge/GitHub-Profile-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Profile" />
   </a>
@@ -111,9 +113,7 @@ A project focused on analyzing customer behaviour and exploring patterns in cust
 ## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  
-<img src="https://raw.githubusercontent.com/vaishnavireddy0/vaishnavireddy00/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
-
+  <img src="https://raw.githubusercontent.com/vaishnavireddy0/vaishnavireddy00/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 </p>
 
 ---
@@ -133,7 +133,6 @@ A project focused on analyzing customer behaviour and exploring patterns in cust
 
 ---
 
-
 ## 🔗 CONNECT WITH ME
 
 <p align="center">
@@ -151,7 +150,6 @@ A project focused on analyzing customer behaviour and exploring patterns in cust
 <p align="center">
   <i>Thanks for visiting my profile! ⚡</i>
 </p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:301060,100:8A2BE2&height=120&section=footer" alt="Cyberpunk Footer" />
