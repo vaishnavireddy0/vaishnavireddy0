@@ -83,6 +83,16 @@
 
 ## 🚀 FEATURED PROJECTS
 
+### 🔹 NEXUS AI | Career Copilot
+
+An AI-powered career assistant that analyzes resumes and helps users prepare for interviews using Google's Gemini AI.
+
+**Features:** Resume Analysis • Interview Preparation • Secure Login
+
+**Technology:** Python, Flask, Google Gemini AI, HTML, CSS, JavaScript
+
+[View Repository →](https://github.com/vaishnavireddy0/nexus-ai-career-copilot)
+
 ### 🔹 Dynamic Equity Engine
 
 A Python-based project designed to analyze team member contributions and identify inactive or low-contributing members.
