@@ -24,6 +24,7 @@
 <p align="center">
   <a href="https://github.com/vaishnavireddy0">
     <img src="https://img.shields.io/badge/GitHub-Profile-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Profile" />
+     <a href="https://vaishnavireddy0.github.io/vaishnavi-exe-portfolio/">
   </a>
 </p>
 
